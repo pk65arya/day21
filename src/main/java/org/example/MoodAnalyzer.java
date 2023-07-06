@@ -12,8 +12,7 @@ public class MoodAnalyzer {
 
     //Function to Check Mood of a String Entered
     public String moodCheck()throws MoodAnalysisException, Exception {
-     //  Object moodAnalysisException = MoodAnalysisException;
-  //   public   String moodCheck () throws MoodAnalysisException {
+
 
             //Created Try and Catch Blocks to Handle Exceptions if Occurs.
             try {
@@ -36,5 +35,5 @@ public class MoodAnalyzer {
 
     }
         }
- //   }
+
 
